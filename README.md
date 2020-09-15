@@ -36,3 +36,7 @@ The `RelationshipService#searchForRelationship` is used to search with a given r
 Check `Relationship` Enum for supported relationship.
 
 _Note: to extend, please add on new relationships. And have new implementations in the RelationshipService'._
+
+
+To run the program, please pass the relative of /src/main/resources/input.txt as argument.
+And user can change the input accordingly.
